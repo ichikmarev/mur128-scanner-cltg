@@ -59,7 +59,7 @@ static const char32_t* id_body_chars           =
     U"_ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789"
     U"АБВГДЕЁЖЗИЙКЛМНОПРСТУФХЦЧШЩЪЫЬЭЮЯабвгдеёжзийклмнопрстуфхцчшщъыьэюя";
 static const char32_t* keyword_begin_chars     =
-    U"iucsfrbmpadcoxlnjt";
+    U"iucsfrbmpadoxlnjt";
 static const char32_t* delim_begin_chars       =
     U"[]{}()!~^:;,=<>+-*/%|&";
 static const char32_t* double_quote_chars      =
