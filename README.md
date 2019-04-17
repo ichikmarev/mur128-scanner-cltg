@@ -1,1 +1,1 @@
-Classification table generator for char32_t to use in the scanner of the programming language Рысь.
+Генерирование таблицы классификации символов для лексического анализатора ассемблера учебного процессора МУР128М.
