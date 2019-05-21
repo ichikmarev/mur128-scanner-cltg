@@ -1,10 +1,6 @@
 /*
      Файл:    map_as_vector.h
-     Создано: 16 июля 2017г.
-     Автор:   Гаврилов Владимир Сергеевич
-     E-mails: vladimir.s.gavrilov@gmail.com
-              gavrilov.vladimir.s@mail.ru
-              gavvs1977@yandex.ru
+     Автор:   Илья Чикмарёв
 */
 #ifndef MAP_AS_VECTOR_H
 #define MAP_AS_VECTOR_H

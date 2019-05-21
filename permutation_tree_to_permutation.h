@@ -1,10 +1,6 @@
 /*
      Файл:    permutation_tree_to_permutation.h
-     Создано: 17 июля 2017г.
-     Автор:   Гаврилов Владимир Сергеевич
-     E-mails: vladimir.s.gavrilov@gmail.com
-              gavrilov.vladimir.s@mail.ru
-              gavvs1977@yandex.ru
+     Автор:   Илья Чикмарёв
 */
 #ifndef PERMUTATION_TREE_TO_PERMUTATION_H
 #define PERMUTATION_TREE_TO_PERMUTATION_H

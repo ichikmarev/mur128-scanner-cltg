@@ -1,10 +1,6 @@
 /*
      Файл:    group_pairs.h
-     Создано: 16 июля 2017г.
-     Автор:   Гаврилов Владимир Сергеевич
-     E-mails: vladimir.s.gavrilov@gmail.com
-              gavrilov.vladimir.s@mail.ru
-              gavvs1977@yandex.ru
+     Автор:   Илья Чикмарёв
 */
 #ifndef GROUP_PAIRS_H
 #define GROUP_PAIRS_H

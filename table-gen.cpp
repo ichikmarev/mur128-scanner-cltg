@@ -1,10 +1,6 @@
 /*
      Файл:    table-gen.cpp
-     Создано: 26 February 2019 at 10:56 Moscow time
-     Автор:   Гаврилов Владимир Сергеевич
-     E-mails: vladimir.s.gavrilov@gmail.com
-              gavrilov.vladimir.s@mail.ru
-              gavvs1977@yandex.ru
+     Автор:   Илья Чикмарёв
 */
 #include <cstdlib>
 #include <cstdio>

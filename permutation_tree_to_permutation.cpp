@@ -1,10 +1,6 @@
 /*
      Файл:    permutation_tree_to_permutation.cpp
-     Создано: 17 июля 2017г.
-     Автор:   Гаврилов Владимир Сергеевич
-     E-mails: vladimir.s.gavrilov@gmail.com
-              gavrilov.vladimir.s@mail.ru
-              gavvs1977@yandex.ru
+     Автор:   Илья Чикмарёв
 */
 #include "permutation_tree_to_permutation.h"
 
